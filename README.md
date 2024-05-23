@@ -2,6 +2,8 @@
 
 *Shhhh* é um aplicativo discreto para encontros. O aplicativo oferece uma plataforma segura e privada para conexões anônimas. 
 
+![image](https://github.com/devGiuseppe/Shhhhhhh/assets/82524180/6817e0fd-8007-4bf2-b3fd-69b32f2cbd03)
+
 ## Funcionalidades
 
 - *Tela de Logo:* Tela inicial com o logotipo do aplicativo.
