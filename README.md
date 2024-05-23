@@ -27,5 +27,13 @@
 - Geolocation
 - Context API (para gerenciamento de estado)
 - Estilização com StyleSheet
-  
+- FlatList
+- KeyboardAvoidingView
+## Telas
+![image](https://github.com/devGiuseppe/Shhhhhhh/assets/82524180/78b7fbb1-0c3b-467b-a16e-ba1d2f086548)
+![image](https://github.com/devGiuseppe/Shhhhhhh/assets/82524180/d5d81264-fedd-4d45-8fcf-d1b1fc2f12b1)
+![image](https://github.com/devGiuseppe/Shhhhhhh/assets/82524180/4336fd00-0f28-459a-ae09-2dac4e2035ac)
+![image](https://github.com/devGiuseppe/Shhhhhhh/assets/82524180/ad6d1a85-f9f7-4d43-92d5-24109a6f83d0)
+
+
 
