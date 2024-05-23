@@ -23,7 +23,9 @@
 - Expo
 - React Navigation
 - AsyncStorage (para armazenamento local)
-- Expo Image Picker (para selecionar imagens)
+- SwipeCards
+- Geolocation
 - Context API (para gerenciamento de estado)
 - Estilização com StyleSheet
+  
 
